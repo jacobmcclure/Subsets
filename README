@@ -1,0 +1,14 @@
+Jacob McClure
+jatmcclu@ucsc.edu
+
+This file is a table of contents for my pa1 submission:
+
+1) README - this file (a table of contents)
+
+2) Makefile - tool created to automate the compilation of Subset.c
+
+3) Subset.c - executable file which takes a specified range of integers and then prints all permutations of k-element
+   subsets given an n-element set; "k" is the number of elements per subset, "n" is the maximum value, as in {1,2,3,n}.
+   Usage is: "Subset <n> <k>", where n is the upper bound and k is the number of integers being displayed per subset.
+
+
